@@ -50,7 +50,8 @@
         <div class="col-md-6 col-sm-6 col-xs-12">
             <h3 class="text-center" style="font-size:18px;font-weight:bold;color:#1e3d78;">Our Inspiration</h3>
             <p class="text-center"> <b style="font-size:16px;color:#337ab7;">Sarguru Sri Mata Amritanandamayi, the Mother of us all </b></p>
-            <p>"Today, Amma is the highest form of teacher-a Jagat Guru-, imparting True Knowledge to the world..."</p>
+            <p>Today, Amma is the highest form of teacher-a Jagat Guru-, imparting True Knowledge to the world. Amma says there are two kinds of education: 'education for life and education for livelihood’ and the most important thing is ‘education for life'. But at the same time Amma also stresses ‘education for living’. It is Amma's wish to bring the two together, creating professionals in all fields with the skills, the mental strength and the heart to uplift the world"                 - Excerpts from Amma on Education, amritaprui.org</p>
+            <p>To fulfil this Amma’s wish to bring the two i.e. Education for Life and Education for Livelihood together, we are striving to create, dedicated, capable,competent Teachers with the skills, the mental strength and the heart to uplift the student community through Love and Selfless Service.</p>
             <p class="pull-right" style="font-size:16px;color:#337ab7;font-weight:bold;">-Dr. Madhava Bharathi.,Ph.D.,</p>
         </div>
         <div class="col-md-3 col-sm-3 col-xs-12">
